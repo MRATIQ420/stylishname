@@ -69,7 +69,7 @@ echo "${red}╚█████╗░███████║██████�
 echo "${red}░╚═══██╗██╔══██║██╔══██║██║░░██║██║░░██║░░████╔═████║░"
 echo "${red}██████╔╝██║░░██║██║░░██║██████╔╝╚█████╔╝░░╚██╔╝░╚██╔╝░"
 echo "${red}╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░░╚════╝░░░░╚═╝░░░╚═╝░░"
-echo "     ${bt} ${blue}${wbg} Developed By Ihtisham Ali - Shadow Walker ${reset}"
+echo "     ${bt} ${blue}${wbg} Developed By Mr.Atiq - Black-Ranjha ${reset}"
 
 
 
@@ -77,21 +77,19 @@ echo "     ${bt} ${blue}${wbg} Developed By Ihtisham Ali - Shadow Walker ${reset
 
 
 echo "${bt}"
-echo "${cyan}$bt • YouTube: ${yellow}https://youtube.com/ShadowWalkerYT"
+echo "${cyan}$bt • YouTube: ${yellow}https://www.youtube.com/channel/UCPjsRDBYr8KIR-3iMs00zmg"
 
-echo "${cyan} $bt• GitHub: ${yellow}https://github.com/ShadowWalker005"
+echo "${cyan} $bt•  GitHub: ${yellow}https://github.com/MRATIQ420"
 
-echo "${cyan} $bt• Facebook: ${yellow}https://facebook.com/ShadowWalkerYT"
-
-echo "${cyan}$bt • Blogspot: ${yellow}https://shadowhub.blogspot.com"
+echo "${cyan} $bt•Whatsapp: ${yellow}+923414826359"
 echo "$reset"
 echo 
 
 
 
 echo
-read -p " ${white}${bt}• ${cyan}${bt}Enter Banner Name:${green}${bt} " banner_name
-read -p " ${white}${bt}• ${cyan}${bt}Enter Username:${green}${bt} " user_name
+read -p " ${white}${bt}• ${cyan}${bt}Enter Banner Name:${green}${bt} " blackranjhq
+read -p " ${white}${bt}• ${cyan}${bt}Enter Username:${green}${bt} " ranjha
 
 
 
@@ -104,7 +102,7 @@ rm -rf $HOME/style
 echo
 echo
 echo "${white}${bt} ${rbg}SUBSCRIBE MY YOUTUBE CHANNEL${reset}"
-xdg-open https://youtube.com/ShadowWalkerYT
+xdg-open https://www.youtube.com/channel/UCPjsRDBYr8KIR-3iMs00zmg
 echo
 echo "${green}${bt}"
 read -p " Hit Enter To Apply Settings..."
